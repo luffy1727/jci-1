@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eae16e1f.chunk.css",
+    "main.js": "/static/js/main.0cd798ba.chunk.js",
+    "main.js.map": "/static/js/main.0cd798ba.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.d9b5f6a2.chunk.js": "/static/js/2.d9b5f6a2.chunk.js",
+    "static/js/2.d9b5f6a2.chunk.js.map": "/static/js/2.d9b5f6a2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e599d2f16293149ffa111ea6194ef25a.js": "/precache-manifest.e599d2f16293149ffa111ea6194ef25a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.eae16e1f.chunk.css.map": "/static/css/main.eae16e1f.chunk.css.map",
+    "static/media/bg_large.jpg": "/static/media/bg_large.b63dc9e7.jpg",
+    "static/media/bg_medium.jpg": "/static/media/bg_medium.a0ed47f5.jpg",
+    "static/media/buga1.JPG": "/static/media/buga1.9b81f74d.JPG",
+    "static/media/buga2.JPG": "/static/media/buga2.0c232f58.JPG",
+    "static/media/landing-page.jpg": "/static/media/landing-page.9f82c097.jpg",
+    "static/media/now-ui-kit.scss": "/static/media/nucleo-outline.8ebec31f.woff2"
+  }
+}
